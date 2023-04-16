@@ -3,11 +3,17 @@
  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container px-lg-5">
                 <a class="navbar-brand" href="#!">SISTEMA DE VENTAS</a>
+                <div class="container-fluid">
+    <form class="d-flex">
+      <input class="form-control me-2" type="search" placeholder="¿Qué estas buscando hoy?" aria-label="Search">
+      <button class="btn btn-outline-success" type="submit">Buscar</button>
+    </form>
+  </div>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">INICIO</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#!">ACERCA DE</a></li>
+                      <!-- Responsive navbar   <li class="nav-item"><a class="nav-link" href="#!">ACERCA DE</a></li> -->
                         <li class="nav-item"><a class="nav-link" href="#!">INICIAR SESION</a></li>
                     </ul>
                 </div>
@@ -90,7 +96,10 @@
             </div>
         </section>
 
-
+<!-- Footer-->
+<footer class="py-5 bg-dark">
+            <div class="container"><p class="m-0 text-center text-white">Copyright &copy; emmaprofemx</p></div>
+        </footer>
 
 </template>
 <script>

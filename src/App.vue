@@ -1,9 +1,7 @@
 <template>
   <div id="app">
-    <to-do-item></to-do-item>
-  <ul>
-  </ul>
-  <h1>To-Do List</h1>
+    <to-do-item>
+    </to-do-item>
 </div>
 
   
