@@ -53,7 +53,7 @@
             the old component has been removed from the framework. Why create
             custom CSS when you can use utilities?
           </p>
-          <a class="btn btn-primary btn-lg" href="#!">Call to action</a>
+          <a id="add-to-cart-btn" class="btn btn-primary btn-lg" href="#!">Agregar al carrito</a>
         </div>
       </div>
     </div>
