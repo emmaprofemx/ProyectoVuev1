@@ -29,7 +29,7 @@
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <!-- Responsive navbar   <li class="nav-item"><a class="nav-link" href="#!">ACERCA DE</a></li> -->
           <li class="nav-item">
-            <a class="nav-link" href="#!">Inicia sesión o regístrate</a>
+            <a class="nav-link" href="login.html">Inicia sesión o regístrate</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#!">
