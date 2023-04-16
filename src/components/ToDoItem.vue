@@ -2,7 +2,7 @@
   <!-- Responsive navbar-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container px-lg-5">
-      <a class="navbar-brand" href="#!">SISTEMA DE VENTAS</a>
+      <a class="navbar-brand" href="#!">UniPOS</a>
       <div class="container-fluid">
         <form class="d-flex">
           <input
@@ -41,6 +41,19 @@
       </div>
     </div>
   </nav>
+  <nav class="navbar">
+  <ul class="nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#frutas">Frutas</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#verduras">Verduras</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#lacteos">Lácteos</a>
+    </li>
+  </ul>
+</nav>
 
   <!-- Header-->
   <header class="py-5">
@@ -169,6 +182,8 @@
     </div>
   </footer>
 </template>
+
+
 <script>
 export default {};
 </script>

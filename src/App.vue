@@ -9,7 +9,7 @@
 
 <script>
 import ToDoItem from "./components/ToDoItem.vue";
-
+import "./styles/estilos.css";
 
 export default {
   name: 'App',
