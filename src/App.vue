@@ -1,10 +1,7 @@
 <template>
   <div id="app">
-    <to-do-item>
-    </to-do-item>
+    <to-do-item></to-do-item>
 </div>
-
-  
 </template>
 
 <script>
