@@ -41,30 +41,50 @@
       </div>
     </div>
   </nav>
-  <nav class="navbar">
+    <!--CATEGORIAS-->
+    <nav class="navbar">
   <ul class="nav">
     <li class="nav-item">
-      <a class="nav-link" href="#frutas">Frutas</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#verduras">Verduras</a>
+      <a class="nav-link" href="#frutas">Frutas y Verduras</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="#lacteos">Lácteos</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#carnes">Carnes y pescados</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#cuidado-personal">Cuidado personal</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#limpieza">Limpieza del hogar</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#bebidas">Bebidas</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#dulces">Dulces y Snacks</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#mascotas">Productos para mascotas</a>
+    </li>
+
   </ul>
 </nav>
+
 
   <!-- Header-->
   <header class="py-5">
     <div class="container px-lg-5">
       <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
         <div class="m-4 m-lg-5">
-          <h1 class="display-5 fw-bold">A warm welcome!</h1>
+          <h1 class="display-5 fw-bold">¡Bienvenido a nuestro sistema de compra y venta en línea! </h1>
           <p class="fs-4">
-            Bootstrap utility classes are used to create this jumbotron since
-            the old component has been removed from the framework. Why create
-            custom CSS when you can use utilities?
+            Aquí encontrarás una amplia variedad de productos a excelentes precios. 
+            Utilizamos Bootstrap para crear una experiencia de usuario fluida y fácil 
+            de usar. ¿Por qué gastar tiempo en crear CSS personalizado cuando se pueden
+            usar utilidades predefinidas?<br>
+            ¡Comienza a explorar nuestro catálogo ahora!
           </p>
           <a id="add-to-cart-btn" class="btn btn-primary btn-lg" href="#!">Agregar al carrito</a>
         </div>
