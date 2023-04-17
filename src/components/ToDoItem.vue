@@ -68,7 +68,6 @@
     <li class="nav-item">
       <a class="nav-link" href="#mascotas">Productos para mascotas</a>
     </li>
-
   </ul>
 </nav>
 
@@ -105,7 +104,7 @@
               >
                 <i class="bi bi-collection"></i>
               </div>
-              <h2 class="fs-4 fw-bold">Fresh new layout</h2>
+              <h2 class="fs-4 fw-bold">ESTAS EN LA RAMA PRODUCT CARD</h2>
               <p class="mb-0">
                 With Bootstrap 5, we've created a fresh new layout for this
                 template!
@@ -113,86 +112,58 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-6 col-xxl-4 mb-5">
-          <div class="card bg-light border-0 h-100">
-            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-              <div
-                class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
-              >
-                <i class="bi bi-cloud-download"></i>
-              </div>
-              <h2 class="fs-4 fw-bold">Free to download</h2>
-              <p class="mb-0">
-                As always, Start Bootstrap has a powerful collectin of free
-                templates.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xxl-4 mb-5">
-          <div class="card bg-light border-0 h-100">
-            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-              <div
-                class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
-              >
-                <i class="bi bi-card-heading"></i>
-              </div>
-              <h2 class="fs-4 fw-bold">Jumbotron hero header</h2>
-              <p class="mb-0">
-                The heroic part of this template is the jumbotron hero header!
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xxl-4 mb-5">
-          <div class="card bg-light border-0 h-100">
-            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-              <div
-                class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
-              >
-                <i class="bi bi-bootstrap"></i>
-              </div>
-              <h2 class="fs-4 fw-bold">Feature boxes</h2>
-              <p class="mb-0">
-                We've created some custom feature boxes using Bootstrap icons!
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xxl-4 mb-5">
-          <div class="card bg-light border-0 h-100">
-            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-              <div
-                class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
-              >
-                <i class="bi bi-code"></i>
-              </div>
-              <h2 class="fs-4 fw-bold">Simple clean code</h2>
-              <p class="mb-0">
-                We keep our dependencies up to date and squash bugs as they
-                come!
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 col-xxl-4 mb-5">
-          <div class="card bg-light border-0 h-100">
-            <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-              <div
-                class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"
-              >
-                <i class="bi bi-patch-check"></i>
-              </div>
-              <h2 class="fs-4 fw-bold">A name you trust</h2>
-              <p class="mb-0">
-                Start Bootstrap has been the leader in free Bootstrap templates
-                since 2013!
-              </p>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
+
+    <div class="card" style="width: 18rem;" text-align="">
+ <!--INICIO Area de productos-->
+ <div class="card-deck justify-content-center">
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Producto 1</h5>
+      <p class="card-text">Descripción del producto 1.</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">Producto 2</h5>
+      <p class="card-text">Descripción del producto 2.</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+    </div>
+  </div>
+  
+  <div class="card">
+  
+    <div class="card-body">
+      <h5 class="card-title">Producto 3</h5>
+      <p class="card-text">Descripción del producto 3.</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+    </div>
+  </div>
+  <div class="card">
+
+    <div class="card-body">
+      <h5 class="card-title">Producto 4</h5>
+      <p class="card-text">Descripción del producto 4.</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+    </div>
+  </div>
+  <div class="card">
+    
+    <div class="card-body">
+      <h5 class="card-title">Producto 5</h5>
+      <p class="card-text">Descripción del producto 5.</p>
+      <a href="#" class="btn btn-primary">Comprar</a>
+    </div>
+  </div>
+</div>
+
+  <!--FIN DE Area de productos-->
+</div>
+
+
   </section>
 
   <!-- Footer-->
